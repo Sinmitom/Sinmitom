@@ -1,17 +1,14 @@
-### Hi there 👋 is Sinmitom's github.
+- ### Hi 👋 Welcome to Sinmitom's github.
 
-Welcome to my repositories
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Deep Learning|Android|Knowledge graph
-
-- 💬 Ask me about Pokemon|Playing Brawl Stars
-
-- 📫 How to reach me: [Sinmitom@qq.com](mailto://Sinmitom@qq.com)
-
-- 😄 Pronouns: I live for my justices and die for it……
-
-- 💎My Blog: [https://blog.csdn.net/qq_43466883?type=blog](https://blog.csdn.net/qq_43466883?type=blog)
-
-  Happy!
+  🍬 I am watermelon🍉:
+  
+  - 📚 I’m currently learning **Deep Learning** | **Android** | **Knowledge graph**
+  - 💬 Ask me about **Pokemon** | **Brawl Stars**
+  - 📫 How to reach me: [Sinmitom@qq.com](mailto://Sinmitom@qq.com)
+  - ✍🏻My CSDN Blog:  [小桥头营运长的博客](https://blog.csdn.net/qq_43466883?type=blog)
+  - 📺My Bilibli Space: [小桥头营运长的B站](https://space.bilibili.com/385139871?spm_id_from=333.1007.0.0)
+  - 😄 Pronouns: I live for my justices and die for it……
+  
+    
+  
+   
